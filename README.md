@@ -104,3 +104,72 @@ Soal No 3
  menganti nama dan nim pada bagian navbar
 ![gambar-pratikum](img/changengenavbar.PNG)
 
+
+
+
+INSTALING Remix dan Getsby
+
+Instaling Remix
+
+Langkah 1: buat npx create remix
+![gambar-pratikum](img/Remix1.Jpeg)
+
+Langkah 2: Open Folder
+![gambar-pratikum](img/Remix2.Jpeg)
+
+Langkah 3 : Menjalankan npm run dev
+![gambar-pratikum](img/Remix3.Jpeg)
+
+Langkah 4 : hasil running npm run dev
+![gambar-pratikum](img/Remix4.Jpeg)
+
+Langkah 5 : Mengubah isi remix
+![gambar-pratikum](img/Remix5.Jpeg)
+
+Langkah 6 : Hasil Perubahan
+![gambar-pratikum](img/Remix6.Jpeg)
+
+Installing Getsby
+Langkah 1: Installing Getsby
+![gambar-pratikum](img/Getsby1.Jpeg)
+
+Langkah 2 : open folder Getsby
+![gambar-pratikum](img/Getsby2.Jpeg)
+
+Langkah 3 : jalankan terminal getsby
+![gambar-pratikum](img/Getsby3.Jpeg)
+
+Langkah 4 : Hasil Terminal
+![gambar-pratikum](img/Getsby4.Jpeg)
+
+Perbedaan Next.js , Remix , Gatsby.js
+
+1. Pendekatan pengembangan
+
+Next.js: Next.js memberikan pendekatan yang fleksibel untuk pengembangan aplikasi web.Karna Next.js mengunakanSSR (Server-Side Rendering) atau SSG (Static Site Generation).
+
+Remix: Remix mengadopsi pendekatan modern dengan fokus pada komposisi dan reusabilitas komponen.
+
+Gatsby.js: Gatsby.js lebih terfokus pada pembangunan situs web statis dan dapat membuat situs web yang cepat dengan memanfaatkan SSG secara eksklusif.
+
+2. Pengunaan
+
+Next.js: Cocok untuk berbagai jenis proyek, Mulai dari aplikasi web sederhana hingga aplikasi yang kompleks.
+
+Remix: Cocok untuk proyek-proyek yang menghargai pendekatan modern dalam pengembangan web dan perlu kinerja yang baik.
+
+Gatsby.js: Ideal untuk pembangunan situs web statis, blog, dan aplikasi web yang membutuhkan kinerja yang cepat dan mudah dalam pengelolaan konten.
+
+3. Ekosistem dan Komunitas
+
+Next.js: Next.js memiliki ekosistem yang besar dan aktif dengan banyak plugin dan dukungan komunitas yang tersedia.
+
+Remix: Meskipun Remix masih berkembang, ekosistemnya masih tidak sebesar Next.js. Namun, ada potensi pertumbuhan yang baik dan dukungan komunitas yang solid.
+
+Gatsby.js: Gatsby memiliki ekosistem yang besar dengan banyak plugin dan tema yang tersedia, serta dukungan komunitas yang kuat.
+
+
+
+
+
+
