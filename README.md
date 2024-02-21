@@ -90,7 +90,7 @@ M. Jelaskan fungsi README.md
 
 N. Jelaskan fungsi tailwind.config.ts
 
-(Berkas ini adalah konfigurasi untuk Tailwind CSS, kerangka kerja CSS yang dapat disesuaikan. Ini memungkinkan pengguna untuk menyesuaikan tema, mengonfigurasi plugin, dan mengatur opsi lainnya.)
+(Berkas ini adalah konfigurasi untuk Tailwind CSS, kerangka kerja CSS yang dapat disesuaikan. Ini memungkinkan pengguna untuk menyesuaikan tema, mengonfigurasi plugin, dan mengatur opsi lainnya.).
 
 O. Jelaskan fungsi tsconfig.json
 
