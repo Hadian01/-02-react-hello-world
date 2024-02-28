@@ -2,7 +2,7 @@ import Image from "next/image";
 export default function Home() {
   function MyButton() {
     return (
-      <button>Tekan saya bang</button>
+      <button>Tekan saye bang</button>
     );
   }
   function MyTextNimName(){
